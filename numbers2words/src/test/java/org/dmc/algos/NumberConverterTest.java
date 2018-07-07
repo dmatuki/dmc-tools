@@ -7,7 +7,7 @@ import org.junit.Test;
 public class NumberConverterTest {
     
     @Test
-    public void toWords_basic_shouldSucceed() throws Exception {
+    public void toWords_basic_shouldSucceed() {
         assertEquals("zero", NumberConverter.toWords(0));
         assertEquals("one", NumberConverter.toWords(1));
         assertEquals("two", NumberConverter.toWords(2));
@@ -20,7 +20,7 @@ public class NumberConverterTest {
     }
 
     @Test
-    public void toWords_hundred_shouldSucceed() throws Exception {
+    public void toWords_hundred_shouldSucceed() {
         assertEquals("one hundred", NumberConverter.toWords(100));
         assertEquals("one hundred eleven", NumberConverter.toWords(111));
         assertEquals("three hundred thirty three", NumberConverter.toWords(333));
@@ -29,7 +29,7 @@ public class NumberConverterTest {
     }
 
     @Test
-    public void toWords_powers_shouldSucceed() throws Exception {
+    public void toWords_powers_shouldSucceed() {
         assertEquals("sixty thousand one hundred one", NumberConverter.toWords(60101));
         assertEquals("two billion one hundred twenty four million three hundred forty five thousand four hundred fifty six", NumberConverter.toWords(2124345456));
         assertEquals("twelve million three hundred fifty seven thousand one hundred twenty four", NumberConverter.toWords(12357124));
