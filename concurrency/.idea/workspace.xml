@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a1c2739-6e0c-4e82-bc35-654de6afddd2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/BenchmarkRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/NumberConverterBenchmark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numbers2words/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numbers2words/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/algos/Runner.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../numbers2words/target/" />
@@ -22,58 +15,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../numbers2words/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberConverterBenchmark.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/NumberConverterBenchmark.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BenchmarkRunner.java" pinned="false" current-in-tab="false">
+    <leaf>
+      <file leaf-file-name="BenchmarkRunner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/BenchmarkRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/algos/NumberConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Warmup.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.21/jmh-core-1.21-sources.jar!/org/openjdk/jmh/annotations/Warmup.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="57" column="46" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberConverterBenchmark.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../numbers2words/target/classes/org/dmc/jmh/NumberConverterBenchmark.class">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -125,14 +74,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
               <item name="numbers2words" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -160,15 +131,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dmc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="numbers2words" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dmc" type="462c0819:PsiDirectoryNode" />
-              <item name="algos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="concurrency" type="b2602c69:ProjectViewProjectNode" />
@@ -289,40 +251,46 @@
       <option name="project" value="LOCAL" />
       <updated>1530985709643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jmh configuration">
+      <created>1530999066314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530999066314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="720" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32919255" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32901135" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3291592" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.45186335" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42787683" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32919255" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2471637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32919255" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32919255" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -330,19 +298,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
+    <MESSAGE value="jmh configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="jmh configuration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/BenchmarkRunner.java</url>
-          <line>2</line>
-          <properties class="org.dmc.jmh.BenchmarkRunner" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
@@ -375,20 +335,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sample/test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="21" selection-start-line="47" selection-start-column="18" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sample/test/src/main/java/org/sample/MyBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../sample/test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../sample/test/src/main/java/org/sample/MyBenchmark.java" />
     <entry file="file://$PROJECT_DIR$/../numbers2words/target/classes/org/dmc/jmh/NumberConverterBenchmark.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -396,9 +344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="27" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -431,20 +376,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sample/test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="21" selection-start-line="47" selection-start-column="18" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../numbers2words/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../sample/test/pom.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.21/jmh-core-1.21.jar!/org/openjdk/jmh/annotations/Warmup.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -459,20 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/algos/NumberConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/BenchmarkRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.21/jmh-core-1.21-sources.jar!/org/openjdk/jmh/annotations/Measurement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -480,13 +398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sample/test/src/main/java/org/sample/MyBenchmark.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../sample/test/src/main/java/org/sample/MyBenchmark.java" />
     <entry file="file://$PROJECT_DIR$/../numbers2words/target/classes/org/dmc/jmh/NumberConverterBenchmark.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -497,20 +409,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/algos/Runner.java">
+    <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/algos/Runner.java" />
+    <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/algos/NumberConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/NumberConverterBenchmark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../numbers2words/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../numbers2words/src/main/java/org/dmc/jmh/BenchmarkRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
