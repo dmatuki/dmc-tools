@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="concurrency" />
         <module name="numbers2words" />
+        <module name="sorting" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="concurrency" target="1.8" />
       <module name="numbers2words" target="1.8" />
+      <module name="sorting" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../concurrency/concurrency.iml" filepath="$PROJECT_DIR$/../concurrency/concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/numbers2words.iml" filepath="$PROJECT_DIR$/numbers2words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sorting/sorting.iml" filepath="$PROJECT_DIR$/../sorting/sorting.iml" />
     </modules>
   </component>
 </project>
